@@ -1,0 +1,667 @@
+﻿Refid,country,continent,st_design,setting1,setting,species,species1,species2,,plant_species,plant_species,trans_species,retail_species,farm_species,NR_species
+12929,Egypt,Africa,Single group observational,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,Fish  / shellfish,,
+9384,Nigeria,Africa,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,,,Not reported,,
+9788,Nigeria,Africa,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,"Laying hens,Poultry, not further specified",,
+4349,Botswana,Africa,Single group observational,Not specified,Not Specified,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,"Poultry, not further specified",,
+11648,South Korea,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,"Cattle, not further specified,Swine,Chickens, not further specified",,
+1338,China,Asia,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,,,"Chickens, not further specified",,
+2131,Iran,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,,,"Cattle, not further specified,Chickens, not further specified",,
+1429,Qatar,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,Fish  / shellfish,,
+9294,Thailand,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,Not reported,,
+10234,Israel,Asia,Single group observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,,,Broiler chickens,,
+12495,Poland,Europe,Analytical observational,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Cattle or Buffalo,Cattle,Dairy cattle,,,,,"Goats,Not reported",,
+7381,Sweden,Europe,Challenge trial in natural setting,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,,,"Laying hens,Chickens, not further specified","Laying hens,Chickens, not further specified",
+10314,Poland,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,,,"Cattle, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry,Not reported","Poultry, not further specified",
+3647,United Kingdom,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Ruminants, not further specified,Swine,Poultry, not further specified",,,,
+13493,Finland,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Broiler chickens,,,,
+3943,Great Britain,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+4806,Finland,Europe,Molecular studies,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Swine,,,,
+18643,United Kingdom,Europe,Single group observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,Cattle,"Dairy cattle,Beef cattle",,,Not reported,,,,
+2173,Spain,Europe,Laboratory study (experimental),Not specified,Not Specified,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Swine,,,,
+22529,Greece,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Sheep, Swine","Cattle, not further specified,Sheep,Swine",,,Not reported,,,,
+2008,Norway,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,"Poultry, not further specified",,,,
+2826,Spain,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Sheep, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,Broiler chickens,,,,
+9943,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,Not reported,,,,
+1487,Serbia,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,Not reported,,,,
+1645,Germany,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Swine ","Cattle, not further specified,Swine",,,Not reported,,,,
+4251,Switzerland,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,"Swine,Poultry, not further specified,Not reported",,,,
+2189,United Kingdom,Europe,Analytical observational,"Field used to grow animal feeds,Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,Broiler chickens,,,,
+9604,Serbia,Europe,Laboratory study (experimental),"Feed manufacturing plant,Not specified",Multiple,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified, Not reported",,,Not reported,,,,
+16446,Belgium,Europe,Analytical observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Broiler chickens,Poultry, not further specified,Not reported",,,"Cattle, not further specified,Swine",,,,
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,Swine,,,,
+9292,Poland,Europe,Analytical observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry, Fish, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported",,,"Broiler chickens,Laying hens",,,,
+9119,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Sheep, Swine, Poultry","Cattle, not further specified,Sheep,Swine,Laying hens,Chicken, not further specified",,,Not reported,,,,
+9257,Serbia,Europe,Molecular studies,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,"Cattle, not further specified,Sheep,Swine",,,,
+1599,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,"Swine,Not reported",,,,
+1919,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+3445,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Swine,,,,
+3987,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,Swine,,,,
+5461,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Not reported,,,,
+9498,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,Not reported,,,,
+12661,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Dairy cattle,Beef cattle",,,Not reported,,,,
+4083,USA,North America,Challenge trial in natural setting,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Poultry, not further specified",,,,
+3296,Canada,North America,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,"Laying hens,Poultry, not further specified",,,,
+2818,USA,North America,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,"Laying hens,Poultry, not further specified",,,,
+3900,USA,North America,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,
+1424,USA,North America,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Fish / shellfish,Not reported",,,,
+19466,Canada,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Not reported,,,,
+1106,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Fish / shellfish,Not reported",,,,
+1737,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,Fish / shellfish,,,,
+1738,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,Not reported,,,,
+3426,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,"Poultry, not further specified",,,,
+3785,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Broiler chickens,,,,
+4066,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Broiler chickens,,,,
+4235,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+4428,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+4574,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Dairy cattle,Beef cattle",,,Not reported,,,,
+4939,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+19469,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,"Poultry, not further specified",,,,
+21441,USA,North America,Analytical observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Swine,,,,
+4234,USA,North America,Single group observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,Cattle,Dairy cattle,,,"Laying hens,Chickens, not further specified",,,,
+3617,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,Not reported,,,,
+19919,USA,North America,Molecular studies,Not specified,Not Specified,Cattle or Buffalo,Cattle,"Cattle, not further specified,Swine",,,"Poultry, not further specified,Not reported",,,,
+7948,USA,North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Cattle or Buffalo,"Cattle, Not reported","Dairy cattle,Beef cattle,Not reported",,,"Poultry, not further specified",,,,
+1621,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,"Cattle, Goat, Swine, Poultry","Cattle, not further specified,Goats,Swine,Broiler chickens,Laying hens",,,Not reported,,,,
+13916,USA,North America,Analytical observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Poultry, not further specified",,,Not reported,,,,
+5729,USA,North America,Diagnostic test evaluation,"Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Cattle or Buffalo,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry,Not reported",,,"Broiler chickens,Laying hens",,,,
+2494,USA,North America,Analytical observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,"Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,
+4206,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry","Dairy cattle,Swine,Poultry, not further specified",,,Not reported,,,,
+1558,USA,North America,Single group observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Sheep, Goats, Swine, Poultry","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified",,,"Cattle, not further specified,Swine,Poultry, not further specified",,,,
+5394,USA,North America,Single group observational,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,,Not reported,,,,
+3488,Australia,Oceania,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Swine,,,,
+1918,Australia,Oceania,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,"Cattle, Sheep, Goat","Dairy cattle,Sheep,Goats",,,Not reported,,,,
+607,Venezuela,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Dairy cattle,Beef cattle",,,"Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,,
+12709,Brazil,South America,Laboratory study (experimental),Not specified,Not Specified,Cattle or Buffalo,Cattle,Dairy cattle,,,Not reported,,,,
+2030,Brazil,South America,Challenge trial in natural setting,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Cattle or Buffalo,"Cattle, Goats","Cattle, not further specified,Goats",,,"Swine,Not reported",,,,
+10146,Not reported,Not Reported,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Buffalo,Buffalo / bison,,,"Swine,Not reported",,,,
+7788,Not reported,Not Reported,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Beef cattle,,,"Swine,Not reported",,,,
+5003,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Dairy cattle,,,Swine,,,,
+7760,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,Swine,,,Swine,,,,
+8090,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,"Swine,Not reported",,,,
+2003,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Cattle or Buffalo,Cattle,"Cattle, not further specified",,,"Swine,Not reported",,,,
+20005,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Cattle or Buffalo,Cattle,Beef cattle,,,"Swine,Not reported",,,,
+1488,Not reported,Not Reported,Diagnostic test evaluation,Animal feed at retail,Retail,Cattle or Buffalo,"Cattle, Poultry","Cattle, not further specified,Chickens, not further specified",,,Not reported,,,,
+944,Not reported,Not Reported,Laboratory study (experimental),Animal feed at retail,Retail,Cattle or Buffalo,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Chickens, not further specified",,,Not reported,,,,
+1269,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Not reported","Cattle, not further specified,Not reported",,,Not reported,,,,
+4654,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Cattle or Buffalo,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Chicken, not further specified,Turkeys,Other farmed poultry,Not reported",,,Not reported,,,,
+6485,Egypt,Africa,Laboratory study (experimental),Not specified,Not Specified,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+5707,Bangladesh,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+18834,India,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+1176,China,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+5225,Thailand,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+21425,China,Asia,Single group observational,Animal feed at retail,Retail,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+9415,Iran,Asia,Laboratory study (experimental),Not specified,Not Specified,Fish,Fish,Fish  / shellfish,,,Not reported,,,,
+2889,Norway,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Fish,Fish,"Fish / shellfish,Not reported",,,Not reported,,,,
+4244,Norway,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Fish,Fish,Fish / shellfish,,,Not reported,,,,
+12169,Norway,Europe,Single group observational,Feed transportation (e.g. feed trucks),Feed Transportation,Fish,Fish,Fish / shellfish,,,Swine,,,,
+799,Portugal,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,Swine,,,,
+4298,Norway,Europe,Molecular studies,"Feed manufacturing plant,Not specified",Multiple,Fish,Fish,Fish / shellfish,,,"Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,,
+3960,Norway,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Fish,"Fish, Not reported","Fish / shellfish,Not reported",,,"Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,,
+9292,Poland,Europe,Analytical observational,Not specified,Not Specified,Fish,"Cattle, Swine, Poultry, Fish, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported",,,"Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,,
+5025,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,"Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,,
+6858,Brazil,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Fish,Fish,Fish  / shellfish,,,"Broiler chickens,Laying hens",,,,
+12611,Not reported,Not Reported,Single group observational,Animal feed at retail,Retail,Fish,Fish,Fish  / shellfish,,,"Broiler chickens,Laying hens",,,,
+5375,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Fish,"Poultry, Fish, Not reported","Poultry, not further specified,Fish  / shellfish,Not reported",,,"Broiler chickens,Laying hens,Turkeys",,,,
+9188,USA,North America,Analytical observational,Animal feed at retail,Retail,Goats,Goats,"Goats,Not reported",,,"Broiler chickens,Laying hens,Turkeys",,,,
+1621,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Goats,"Cattle, Goat, Swine, Poultry","Cattle, not further specified,Goats,Swine,Broiler chickens,Laying hens",,,"Laying hens,Chickens, not further specified",,,,
+1558,USA,North America,Single group observational,Not specified,Not Specified,Goats,"Cattle, Sheep, Goats, Swine, Poultry","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified",,,"Laying hens,Chickens, not further specified",,,,
+5394,USA,North America,Single group observational,Not specified,Not Specified,Goats,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,,Not reported,,,,
+1918,Australia,Oceania,Single group observational,On-farm (including farmed fish sites),On-farm,Goats,"Cattle, Sheep, Goat","Dairy cattle,Sheep,Goats",,,Not reported,,,,
+2030,Brazil,South America,Challenge trial in natural setting,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Goats,"Cattle, Goats","Cattle, not further specified,Goats",,,Not reported,,,,
+10929,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Goats,Goats,Goats,,,"Poultry, not further specified,Not reported",,,,
+16047,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Goats,"Sheep, Goats","Sheep,Goats",,,"Poultry, not further specified,Not reported",,,,
+9259,Tanzania,Africa,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Broiler chickens,Laying hens",,,"Poultry, not further specified,Not reported",,,,
+9180,Nigeria,Africa,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Laying hens,Poultry, not further specified",,,"Poultry, not further specified,Not reported",,,,
+9455,Nigeria,Africa,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Laying hens,Poultry, not further specified",,,"Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,
+3026,Algeria,Africa,Single group observational,Feed transportation (e.g. feed trucks),Feed Transportation,Poultry,Poultry,"Broiler chickens,Laying hens",,,"Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,
+11098,Egypt,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Swine,,,,
+96,Ethiopia,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Swine,,,,
+9347,Nigeria,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,,Swine,,,,
+19782,Uganda,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens",,,Swine,,,,
+18237,Egypt,Africa,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,,Swine,,,,
+4395,Kenya,Africa,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Swine,,,,
+843,Algeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Swine,,,,
+1211,Algeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Swine,,,,
+11470,Egypt,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Swine,,,,
+11932,Egypt,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Swine,,,,
+14042,Ethiopia,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Swine,,,,
+715,Ghana,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,,Swine,,,,
+1647,Ghana,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens",,,Swine,,,,
+1362,Nigeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Swine,,,,
+1432,Nigeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Swine,,,,
+10786,Nigeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens",,,Not reported,,,,
+14917,Nigeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,,Not reported,,,,
+10359,Nigeria,Africa,Analytical observational,Animal feed at retail,Retail,Poultry,Poultry,"Poultry, not further specified",,,Not reported,,,,
+9254,Nigeria,Africa,Single group observational,Animal feed at retail,Retail,Poultry,Poultry,"Laying hens,Poultry, not further specified",,,Not reported,,,,
+9261,Nigeria,Africa,Analytical observational,"Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,"Laying hens,Chickens, not further specified",,,Not reported,,,,
+9143,Nigeria,Africa,Single group observational,"Feed manufacturing plant,Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,"Broiler chickens,Laying hens,Poultry, not further specified",,,Not reported,,,,
+9777,Nigeria,Africa,Analytical observational,Not specified,Not Specified,Poultry,Poultry,"Broiler chickens,Laying hens,Poultry, not further specified",,,Not reported,,,,
+10100,Nigeria,Africa,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,Not reported,,,,
+9429,Nigeria,Africa,Single group observational,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,Not reported,,,,
+9211,Pakistan,Asia,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Broiler chickens,Laying hens",,,Not reported,,,,
+4682,Japan,Asia,Analytical observational,Feed transportation (e.g. feed trucks),Feed Transportation,Poultry,Poultry,Laying hens,,,Not reported,,,,
+2471,Japan,Asia,Single group observational,Feed transportation (e.g. feed trucks),Feed Transportation,Poultry,Poultry,Laying hens,,,Not reported,,,,
+221,Bangladesh,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+1093,China,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,,,
+11397,India,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Not reported,,,,
+12652,India,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+1495,Japan,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+4571,Japan,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,,,
+10452,Malaysia,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,,,
+839,South Korea,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+5181,Thailand,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens,Chickens, not further specified",,,Not reported,,,,
+11179,Thailand,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Domestic ducks,,,Not reported,,,,
+12609,Thailand,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Domestic ducks,,,Not reported,,,,
+13072,Thailand,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+2208,China,Asia,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,,,
+10543,India,Asia,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,"Dairy cattle,Beef cattle,Not reported",,,,
+532,China,Asia,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,"Dairy cattle,Beef cattle,Not reported",,,,
+9088,Iran,Asia,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,Not reported,,,,,
+4473,Taiwan,Asia,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,Not reported,,,,,
+16666,India,Asia,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,Not reported,,,,
+199,Bangladesh,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+9420,Bangladesh,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+9786,Bangladesh,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+255,China,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Not reported,,,,
+12961,China,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,,,
+1736,India,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Not reported,,Not reported,Not reported,
+5419,India,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,"Broiler chickens,Laying hens,Poultry, not further specified",,,,
+10039,India,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,"Broiler chickens,Laying hens,Poultry, not further specified",,"Broiler chickens,Laying hens,Poultry, not further specified","Broiler chickens,Laying hens,Poultry, not further specified",
+11685,India,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Broiler chickens,Broiler chickens,,,
+378,Malaysia,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Broiler chickens,Broiler chickens,,,
+5125,Malaysia,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Broiler chickens,Broiler chickens,,,
+9940,Saudi Arabia,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,,Broiler chickens,Broiler chickens,,,
+3631,State of Kuwait,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Not reported,"Ruminants, not further specified,Swine",,,
+7382,Turkey,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,Not reported,"Ruminants, not further specified,Swine",,,
+4762,Saudi Arabia,Asia,Single group observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Broiler chickens,,,Not reported,"Ruminants, not further specified,Swine",,,
+5062,Japan,Asia,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,Not reported,,,,
+9517,Jordan,Asia,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,Not reported,,,,
+12185,Bangladesh,Asia,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,Not reported,,,,Not reported
+1757,Pakistan,Asia,Single group observational,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,Fish / shellfish,,,,
+2008,Norway,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,Fish / shellfish,,,,
+1206,Poland,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Ruminants, Swine, Poultry,  Not reported","Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,Fish / shellfish,,,,Fish  / shellfish
+2826,Spain,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Cattle, Sheep, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,"Cattle, not further specified,Swine,Poultry, not further specified",,,,
+5023,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Poultry, Not reported","Poultry, not further specified,Not reported",,,"Cattle, not further specified,Swine,Poultry, not further specified",,,,
+9943,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,"Cattle, not further specified,Swine,Poultry, not further specified",,,,Not reported
+1487,Serbia,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,Turkeys,,,,
+4251,Switzerland,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,Turkeys,,,,Turkeys
+2913,Great Britain,Europe,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,Laying hens,,,,
+9604,Serbia,Europe,Laboratory study (experimental),"Feed manufacturing plant,Not specified",Multiple,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified, Not reported",,,Laying hens,,,,
+16446,Belgium,Europe,Analytical observational,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Broiler chickens,Poultry, not further specified,Not reported",,,Laying hens,,,Laying hens,
+18279,Belgium,Europe,Analytical observational,Not specified,Not Specified,Poultry,"Swine, Poultry, Not reported","Swine,Broiler chickens,Laying hens,Not reported",,,"Cattle, not further specified",,,,
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Poultry,"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,"Cattle, not further specified",,,,
+9292,Poland,Europe,Analytical observational,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry, Fish, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported",,,"Cattle, not further specified",,,,
+9119,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Cattle, Sheep, Swine, Poultry","Cattle, not further specified,Sheep,Swine,Laying hens,Chicken, not further specified",,,"Cattle, not further specified",,,,
+4388,Italy,Europe,Molecular studies,Not specified,Not Specified,Poultry,"Poultry, Not reported","Poultry, not further specified,Not reported",,,"Cattle, not further specified",,,"Cattle, not further specified",
+9257,Serbia,Europe,Molecular studies,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,Broiler chickens,,,,
+9121,Greece,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Broiler chickens,Laying hens",,,Broiler chickens,,,,
+5292,The Netherlands,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Broiler chickens,Laying hens,Turkeys",,,Broiler chickens,,,,
+9526,The Netherlands,Europe,Clinical / field trial with natural disease exposure,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Laying hens,Chickens, not further specified",,,Broiler chickens,,,,
+1888,Great Britain,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,Broiler chickens,,,,
+3107,Great Britain,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,Broiler chickens,,,Broiler chickens,
+3564,Great Britain,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,"Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,,
+4300,Great Britain,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,"Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,,
+3325,Hungary,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,"Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,"Laying hens,Turkeys",
+2856,Spain,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Broiler chickens,,,Broiler chickens,
+5182,United Kingdom,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens,Turkeys",,,Broiler chickens,,,,
+4178,Denmark,Europe,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Broiler chickens,,,Broiler chickens,
+2649,Germany,Europe,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Broiler chickens,,,,
+11480,Spain,Europe,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Broiler chickens,,,Broiler chickens,
+3692,United Kingdom,Europe,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,Dairy cattle,,,,
+2191,Denmark,Europe,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,Dairy cattle,,,Dairy cattle,
+4328,Denmark,Europe,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,"Laying hens,Poultry, not further specified",,,,
+4365,Belgium,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,"Laying hens,Poultry, not further specified",,,Laying hens,Laying hens
+4715,France,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,"Broiler chickens,Laying hens",,,
+1611,Kosovo,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,"Broiler chickens,Laying hens",,,
+2128,Spain,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,Not reported,,,
+6670,The Netherlands,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,Not reported,,,
+56,Great Britain,Europe,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Broiler chickens,,,,Laying hens,,,
+11707,Austria,Europe,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites),Not specified",Multiple,Poultry,Poultry,"Laying hens,Poultry, not further specified",,,,Laying hens,,,
+3449,France,Europe,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,Domestic ducks,,,,Laying hens,,,
+9267,Slovenia,Europe,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Broiler chickens,Laying hens",,,,Laying hens,,,
+1128,Austria,Europe,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Broiler chickens,Laying hens,Poultry, not further specified",,,,Laying hens,,,
+15931,Italy,Europe,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,Fish / shellfish,,,
+268,Poland,Europe,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,Fish / shellfish,,,
+4858,Spain,Europe,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,Not reported,,,
+2356,United Kingdom,Europe,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,Not reported,,,
+1752,Denmark,Europe,Molecular studies,Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,Not reported,,,
+1491,Poland,Europe,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,Not reported,,,
+4961,Germany,Europe,Single group observational,Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,"Poultry, not further specified",,,
+5043,"Canada,Australia,United Kingdom",Europe,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified,Not reported",,,,"Poultry, not further specified",,,
+1537,Costa Rica,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Swine, Poultry, Not reported","Swine,Poultry, not further specified,Not reported",,,,"Poultry, not further specified",,,
+1621,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,"Cattle, Goat, Swine, Poultry","Cattle, not further specified,Goats,Swine,Broiler chickens,Laying hens",,,,Swine,,,
+13916,USA,North America,Analytical observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Poultry,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Poultry, not further specified",,,,Swine,,,
+5729,USA,North America,Diagnostic test evaluation,"Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Poultry,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry,Not reported",,,,Turkeys,,,
+2494,USA,North America,Analytical observational,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,,Turkeys,,Turkeys,
+4206,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry","Dairy cattle,Swine,Poultry, not further specified",,"Cattle, not further specified,Goats",,,,,
+9297,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Swine, Poultry","Swine,Broiler chickens,Laying hens",,"Cattle, not further specified",,,,,
+10379,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry",,Not reported,,,,,
+1558,USA,North America,Single group observational,Not specified,Not Specified,Poultry,"Cattle, Sheep, Goats, Swine, Poultry","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified",,Not reported,,,,,
+5394,USA,North America,Single group observational,Not specified,Not Specified,Poultry,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,Not reported,,,,,
+3510,Canada,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,Broiler chickens,,Sheep,,,,,
+4514,USA,North America,Single group observational,Feed transportation (e.g. feed trucks),Feed Transportation,Poultry,Poultry,"Poultry, not further specified",,Dairy cattle,,,,,
+2063,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,"Cattle, not further specified",,,,,
+2893,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,Not reported,,,,,
+3717,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,Not reported,Not reported,,,"Cattle, not further specified,Swine",
+5020,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,"Sheep,Ruminants, not further specified",,,,,Sheep
+11803,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Poultry, not further specified",,Not reported,,,,"Cattle, not further specified",
+5308,Canada,North America,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens,Chickens, not further specified,Turkeys",,"Dairy cattle,Beef cattle",,,,"Dairy cattle,Beef cattle",
+5232,Canada,North America,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,Beef cattle,,,,"Dairy cattle,Beef cattle,Swine,Poultry, not further specified",
+1554,USA,North America,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,"Cattle, not further specified",,,,"Cattle, not further specified",
+2806,USA,North America,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,Laying hens
+3351,USA,North America,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,Laying hens
+4862,USA,North America,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,"Broiler chickens,Laying hens,Poultry, not further specified"
+1109,Canada,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,"Poultry, not further specified"
+108,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,,,,,Not reported
+2871,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Chickens, not further specified",,,,,,,Not reported
+4144,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,"Cattle, not further specified,Swine,Broiler chickens,Poultry, not further specified,Not reported"
+12891,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,"Swine,Broiler chickens,Laying hens,Not reported"
+13486,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,"Cattle, not further specified"
+2093,USA,North America,Laboratory study (experimental),Animal feed at retail,Retail,Poultry,Poultry,Broiler chickens,,,,,,,"Chicken, not further specified"
+5205,USA,North America,Laboratory study (experimental),"Feed manufacturing plant,Not specified",Multiple,Poultry,Poultry,Turkeys,,,,,,,Broiler chickens
+4371,USA,North America,Single group observational,"Feed transportation (e.g. feed trucks),On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Turkeys,,,,,,,Not reported
+7668,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,Not reported
+5129,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+1307,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,"Chicken, not further specified"
+5102,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+9138,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Broiler chickens,Poultry, not further specified",,,,,,,Dairy cattle
+9783,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Swine
+10055,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+10424,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+10777,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+4734,USA,North America,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+2080,USA,North America,Single group observational,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+1973,"Trinidad and Tobago,Grenada,St. Lucia",North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,"Chicken, not further specified"
+5043,"Canada,Australia,United Kingdom",North America,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified,Not reported",,,,,,,Not reported
+419,Australia,Oceania,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified",,,,,,,"Poultry, not further specified,Not reported"
+2971,Australia,Oceania,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,Broiler chickens,,,,,,,"Swine,Not reported"
+2335,New Zealand,Oceania,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+243,Australia,Oceania,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Not reported
+354,New Zealand,Oceania,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Broiler chickens
+4315,Australia,Oceania,Single group observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Laying hens,,,,,,,Not reported
+5043,"Canada,Australia,United Kingdom",Oceania,Molecular studies,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified,Not reported",,,,,,,Fish  / shellfish
+9165,Brazil,South America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Poultry, not further specified",,,,,,,Domestic ducks
+449,Ecuador,South America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+1168,Argentina,South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Not reported
+3087,Brazil,South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Other farmed poultry,,,,,,,Laying hens
+11895,Brazil,South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,"Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported"
+1826,Colombia,South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Not reported
+51,Brazil,South America,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Other farmed poultry",,,,,,,Not reported
+456,Brazil,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+572,Ecuador,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Not reported
+2275,Argentina,South America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,,,,Fish  / shellfish
+2673,Argentina,South America,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,,,,Not reported
+510,Brazil,South America,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,"Poultry, not further specified,Not reported"
+1691,Brazil,South America,Molecular studies,Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Laying hens
+6228,Brazil,South America,Single group observational,Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,"Chicken, not further specified"
+1973,"Trinidad and Tobago,Grenada,St. Lucia",South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Broiler chickens
+9307,Not reported,Not Reported,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,,Not reported
+1488,Not reported,Not Reported,Diagnostic test evaluation,Animal feed at retail,Retail,Poultry,"Cattle, Poultry","Cattle, not further specified,Chickens, not further specified",,,,,,,Not reported
+944,Not reported,Not Reported,Laboratory study (experimental),Animal feed at retail,Retail,Poultry,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Chickens, not further specified",,,,,,,Swine
+4654,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Chicken, not further specified,Turkeys,Other farmed poultry,Not reported",,,,,,,Not reported
+5375,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Poultry, Fish, Not reported","Poultry, not further specified,Fish  / shellfish,Not reported",,,,,,,"Ruminants, not further specified"
+9770,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,,"Poultry, not further specified"
+5801,Not reported,Not Reported,Clinical / field trial with natural disease exposure,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Laying hens,Chickens, not further specified",,,,,,,"Broiler chickens,Laying hens,Poultry, not further specified"
+5295,Not reported,Not Reported,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Poultry, not further specified",,,,,,,"Poultry, not further specified"
+3346,Not reported,Not Reported,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+4441,Not reported,Not Reported,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,Broiler chickens,,,,,,,Broiler chickens
+4544,Not reported,Not Reported,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,Broiler chickens,,,,,,,"Poultry, not further specified"
+9687,Not reported,Not Reported,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+2955,Not reported,Not Reported,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,Not reported
+5159,Not reported,Not Reported,Analytical observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,"Broiler chickens,Laying hens",,,,,,,Not reported
+5265,Not reported,Not Reported,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,,,,"Cattle, not further specified,Not reported"
+9553,Not reported,Not Reported,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,"Chicken, not further specified"
+12157,Not reported,Not Reported,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Broiler chickens,,,,,,,"Poultry, not further specified"
+3715,Not reported,Not Reported,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Laying hens,,,,,,,Not reported
+3400,Not reported,Not Reported,Molecular studies,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,Not reported
+4274,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,"Cattle, not further specified"
+5104,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Poultry,Poultry,Turkeys,,,,,,,Not reported
+1306,Not reported,Not Reported,Diagnostic test evaluation,Animal feed at retail,Retail,Poultry,Poultry,"Chickens, not further specified",,,,,,,Not reported
+5719,Not reported,Not Reported,Analytical observational,"Feed manufacturing plant,Feed transportation (e.g. feed trucks)",Multiple,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+5001,Not reported,Not Reported,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+3656,Not reported,Not Reported,Single group observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Poultry,Poultry,Broiler chickens,,,,,,,"Poultry, not further specified"
+564,Not reported,Not Reported,Clinical / field trial with natural disease exposure,Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,"Poultry, not further specified"
+11054,Not reported,Not Reported,Clinical / field trial with natural disease exposure,Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,,,,"Swine,Not reported"
+589,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+1482,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+2441,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+3693,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+5335,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,Not reported
+9811,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,Not reported
+1330,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,"Poultry, not further specified"
+2725,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,"Poultry, not further specified"
+3592,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Swine
+4038,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,,,,Laying hens
+4506,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+5123,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Chicken, not further specified",,,,,,,Swine
+5230,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Broiler chickens
+5270,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+5724,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Laying hens,,,,,,,"Cattle, not further specified,Swine,Chicken, not further specified,Turkeys,Other farmed poultry,Not reported"
+9954,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+10150,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,"Chicken, not further specified"
+11574,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,Not reported
+13027,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+16038,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+10492,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Poultry,Poultry,"Poultry, not further specified",,,,,,,"Poultry, not further specified"
+18294,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Poultry,Poultry,Broiler chickens,,,,,,,Not reported
+11205,Nigeria,Africa,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Rabbits,Rabbits,Rabbits raised for meat,,,,,,,Not reported
+6478,Tunisia,Africa,Laboratory study (experimental),Not specified,Not Specified,Ruminants (Other),Ruminants,"Ruminants, not further specified",,,,,,,Not reported
+1206,Poland,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Ruminants (Other),"Ruminants, Swine, Poultry,  Not reported","Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Broiler chickens
+2913,Great Britain,Europe,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Ruminants (Other),"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,,,,,"Chicken, not further specified"
+9813,Cyprus,Europe,Challenge trial in natural setting,"Field used to grow animal feeds,Not specified",Multiple,Ruminants (Other),"Sheep, Ruminants","Sheep,Ruminants, not further specified",,,,,,,"Poultry, not further specified,Fish  / shellfish,Not reported"
+5299,Sweden,Europe,Single group observational,"Feed manufacturing plant,Feed transportation (e.g. feed trucks)",Multiple,Ruminants (Other),"Ruminants, Swine, Not reported","Not reported, Ruminants, Swine",,,,,,,Laying hens
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Ruminants (Other),"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+10379,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Ruminants (Other),"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry",,,,,,,Not reported
+97,USA,North America,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Ruminants (Other),Ruminants,"Ruminants, not further specified",,,,,,,Not reported
+9743,Mexico,North America,Laboratory study (experimental),Not specified,Not Specified,Ruminants (Other),Ruminants,"Ruminants, not further specified",,,,,,,Not reported
+14516,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Ruminants (Other),Ruminants,"Ruminants, not further specified",,,,,,,Not reported
+419,Australia,Oceania,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Ruminants (Other),"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified",,,,,,,Not reported
+5954,Iran,Asia,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Sheep,Sheep,Sheep,,,,,,,Swine
+22529,Greece,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Sheep,"Cattle, Sheep, Swine","Cattle, not further specified,Sheep,Swine",,,,,,,"Poultry, not further specified,Not reported"
+2826,Spain,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Sheep,"Cattle, Sheep, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,,,,,"Chicken, not further specified"
+9813,Cyprus,Europe,Challenge trial in natural setting,"Field used to grow animal feeds,Not specified",Multiple,Sheep,"Sheep, Ruminants","Sheep,Ruminants, not further specified",,,,,,,Not reported
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Sheep,"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,"Poultry, not further specified"
+9119,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Sheep,"Cattle, Sheep, Swine, Poultry","Cattle, not further specified,Sheep,Swine,Laying hens,Chicken, not further specified",,,,,,,Broiler chickens
+3211,Spain,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Sheep,Sheep,Sheep,,,,,,,Not reported
+1558,USA,North America,Single group observational,Not specified,Not Specified,Sheep,"Cattle, Sheep, Goats, Swine, Poultry","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified",,,,,,,"Poultry, not further specified"
+5394,USA,North America,Single group observational,Not specified,Not Specified,Sheep,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,,,,,,Goats
+1918,Australia,Oceania,Single group observational,On-farm (including farmed fish sites),On-farm,Sheep,"Cattle, Sheep, Goat","Dairy cattle,Sheep,Goats",,,,,,,Laying hens
+16047,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Sheep,"Sheep, Goats","Sheep,Goats",,,,,,,Swine
+10089,Not reported,Not Reported,Clinical / field trial with natural disease exposure,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Sheep,Sheep,Sheep,,,,,,,Sheep
+11428,Not reported,Not Reported,Clinical / field trial with natural disease exposure,Not specified,Not Specified,Sheep,Sheep,Sheep,,,,,,,"Poultry, not further specified"
+12695,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Sheep,Sheep,Sheep,,,,,,,Not reported
+18165,Nigeria,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Sheep
+631,South Africa,Africa,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Broiler chickens
+9794,Nigeria,Africa,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Broiler chickens
+9967,Nigeria,Africa,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Sheep,Goats"
+10234,Israel,Asia,Single group observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Swine,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,,,,,Broiler chickens
+9388,Viet Nam,Asia,Molecular studies,Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Beef cattle
+5179,"Canada,Great Britain,Israel",Asia,Molecular studies,Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Not reported
+14663,India,Asia,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+9585,Thailand,Asia,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+2844,South Korea,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+4539,South Korea,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Broiler chickens
+123,Viet Nam,Asia,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+22529,Greece,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Sheep, Swine","Cattle, not further specified,Sheep,Swine",,,,,,,Not reported
+2008,Norway,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+1206,Poland,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Ruminants, Swine, Poultry,  Not reported","Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+2826,Spain,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Sheep, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+9943,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+3001,Sweden,Europe,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Not reported
+3232,Sweden,Europe,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Not reported
+9684,Hungary,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,"Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported"
+1487,Serbia,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,,,,,Not reported
+1645,Germany,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Swine ","Cattle, not further specified,Swine",,,,,,,Not reported
+4251,Switzerland,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Broiler chickens,Laying hens",,,,,,,Not reported
+2913,Great Britain,Europe,Analytical observational,"Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Swine,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Broiler chickens,Laying hens,Poultry, not further specified,Chickens, not further specified,Turkeys",,,,,,,Not reported
+2189,United Kingdom,Europe,Analytical observational,"Field used to grow animal feeds,Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Swine,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,,,,,Not reported
+9604,Serbia,Europe,Laboratory study (experimental),"Feed manufacturing plant,Not specified",Multiple,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified, Not reported",,,,,,,"Cattle, not further specified,Swine,Poultry, not further specified,Not reported"
+5299,Sweden,Europe,Single group observational,"Feed manufacturing plant,Feed transportation (e.g. feed trucks)",Multiple,Swine,"Ruminants, Swine, Not reported","Not reported, Ruminants, Swine",,,,,,,Not reported
+16446,Belgium,Europe,Analytical observational,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Broiler chickens,Poultry, not further specified,Not reported",,,,,,,Not reported
+18279,Belgium,Europe,Analytical observational,Not specified,Not Specified,Swine,"Swine, Poultry, Not reported","Swine,Broiler chickens,Laying hens,Not reported",,,,,,,"Broiler chickens,Laying hens"
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Swine,"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,Not reported
+9292,Poland,Europe,Analytical observational,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry, Fish, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported",,,,,,,Not reported
+9119,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Cattle, Sheep, Swine, Poultry","Cattle, not further specified,Sheep,Swine,Laying hens,Chicken, not further specified",,,,,,,Not reported
+2295,Sweden,Europe,Laboratory study (experimental),Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Not reported
+9257,Serbia,Europe,Molecular studies,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,,"Cattle, not further specified"
+5179,"Canada,Great Britain,Israel",Europe,Molecular studies,Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,Not reported
+3043,Sweden,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+4250,Belgium,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+16079,Germany,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+1704,Ireland,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+9109,Serbia,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Swine,Not reported"
+3924,Switzerland,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+4586,Greece,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+3514,Ireland,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+2711,Portugal,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+9104,Serbia,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Cattle, not further specified,Sheep,Swine,Laying hens,Chicken, not further specified"
+9744,Serbia,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+3801,Sweden,Europe,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+11474,Germany,Europe,Molecular studies,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Ruminants, not further specified"
+3910,Belgium,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Laying hens
+4696,Germany,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Swine
+17143,Great Britain,Europe,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Swine
+9812,United Kingdom,Europe,Analytical observational,Not specified,Not Specified,Swine,Swine,Swine,,,,,,,Not reported
+4181,United Kingdom,Europe,Laboratory study (experimental),Not specified,Not Specified,Swine,Swine,Swine,,,,,,,Broiler chickens
+1537,Costa Rica,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Swine, Poultry, Not reported","Swine,Poultry, not further specified,Not reported",,,,,,,"Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified"
+1621,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,"Cattle, Goat, Swine, Poultry","Cattle, not further specified,Goats,Swine,Broiler chickens,Laying hens",,,,,,,"Poultry, not further specified"
+13916,USA,North America,Analytical observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Swine,"Cattle, Swine, Poultry","Dairy cattle,Beef cattle,Swine,Poultry, not further specified",,,,,,,"Cattle, not further specified,Swine,Poultry, not further specified"
+5729,USA,North America,Diagnostic test evaluation,"Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Swine,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry,Not reported",,,,,,,Not reported
+2494,USA,North America,Analytical observational,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Poultry, not further specified",,,,,,,Not reported
+4206,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry","Dairy cattle,Swine,Poultry, not further specified",,,,,,,"Cattle, not further specified"
+9297,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Swine, Poultry","Swine,Broiler chickens,Laying hens",,,,,,,"Dairy cattle,Swine,Poultry, not further specified"
+10379,USA,North America,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry",,,,,,,"Poultry, not further specified"
+1558,USA,North America,Single group observational,Not specified,Not Specified,Swine,"Cattle, Sheep, Goats, Swine, Poultry","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified",,,,,,,"Poultry, not further specified"
+5394,USA,North America,Single group observational,Not specified,Not Specified,Swine,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,,,,,,"Poultry, not further specified"
+5179,"Canada,Great Britain,Israel",North America,Molecular studies,Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,,"Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported"
+114,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,Not reported
+723,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Broiler chickens,Poultry, not further specified"
+731,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Swine,Broiler chickens,Laying hens"
+332,USA,North America,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+801,USA,North America,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+12183,USA,North America,Analytical observational,Feed transportation (e.g. feed trucks),Feed Transportation,Swine,Swine,Swine,,,,,,,"Ruminants, not further specified,Swine,Poultry, not further specified,Turkeys,Other farmed poultry"
+2218,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Broiler chickens
+3894,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Poultry, not further specified"
+5098,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Ruminants, not further specified"
+7804,USA,North America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,Not reported
+2055,USA,North America,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Cattle, not further specified,Swine"
+11499,Canada,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,,"Swine,Not reported"
+3501,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Broiler chickens,
+4348,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Broiler chickens,
+4509,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Laying hens,
+5006,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Laying hens,
+19359,USA,North America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,"Dairy cattle,Sheep,Goats",
+3947,Mexico,North America,Laboratory study (experimental),Not specified,Not Specified,Swine,Swine,Swine,,,,,,Dairy cattle,
+419,Australia,Oceania,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Swine,"Ruminants, Swine, Poultry","Ruminants, not further specified,Swine,Poultry, not further specified",,,,,,Broiler chickens,
+1846,Brazil,South America,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,Broiler chickens,
+383,Brazil,South America,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Fish  / shellfish,
+4476,Brazil,South America,Molecular studies,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Broiler chickens,
+368,Brazil,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Broiler chickens,
+2653,Brazil,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Swine,
+10414,Ecuador,South America,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Broiler chickens,
+13904,Brazil,South America,Diagnostic test evaluation,Not specified,Not Specified,Swine,Swine,Swine,,,,,,"Broiler chickens,Other farmed poultry",
+944,Not reported,Not Reported,Laboratory study (experimental),Animal feed at retail,Retail,Swine,"Cattle, Swine, Poultry","Cattle, not further specified,Swine,Chickens, not further specified",,,,,,Swine,
+2809,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Swine, Not reported","Swine,Not reported",,,,,,Swine,
+4654,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Swine,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Chicken, not further specified,Turkeys,Other farmed poultry,Not reported",,,,,,Broiler chickens,
+5365,Not reported,Not Reported,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Swine,Swine,Swine,,,,,,Swine,
+2890,Not reported,Not Reported,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Other farmed poultry,
+9120,Not reported,Not Reported,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Swine,
+11861,Not reported,Not Reported,Analytical observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Fish  / shellfish,
+603,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Laying hens,
+4613,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Not reported,
+11379,Not reported,Not Reported,Single group observational,On-farm (including farmed fish sites),On-farm,Swine,Swine,Swine,,,,,,Laying hens,
+3893,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Swine,Swine,Swine,,,,,,"Cattle, not further specified",
+4352,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Swine,Swine,Swine,,,,,,Turkeys,
+9447,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Swine,Swine,Swine,,,,,,"Broiler chickens,Laying hens,Chickens, not further specified,Turkeys",
+11411,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Swine,Swine,Swine,,,,,,Not reported,
+2572,Namibia,Africa,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+1693,South Africa,Africa,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+10661,Egypt,Africa,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+163,Kenya,Africa,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+10234,Israel,Asia,Single group observational,"Field used to grow animal feeds,On-farm (including farmed fish sites)",Multiple,Not Reported,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,,,,Laying hens,
+9388,Viet Nam,Asia,Molecular studies,Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Fish  / shellfish,
+5179,"Canada,Great Britain,Israel",Asia,Molecular studies,Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Dairy cattle,
+1689,China,Asia,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+10012,China,Asia,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+359,India,Asia,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+3716,Japan,Asia,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9266,Turkey,Asia,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+17334,India,Asia,Single group observational,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+10163,Jordan,Asia,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+2783,Taiwan,Asia,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Not reported,
+20129,Japan,Asia,Molecular studies,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Swine,
+1376,China,Asia,Single group observational,"Feed manufacturing plant,Animal feed at retail,On-farm (including farmed fish sites)",Multiple,Not Reported,Not reported,Not reported,,,,,,Not reported,
+18210,Saudi Arabia,Asia,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+1624,China,Asia,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+17420,Pakistan,Asia,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+3271,South Korea,Asia,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+9442,South Korea,Asia,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+3829,Thailand,Asia,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+17501,India,Asia,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+7921,South Korea,Asia,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+2700,"Not reported,USA,Ecuador,Australia,Uruguay,Taiwan,Thailand,Chile,Peru,American Samoa",Asia,Molecular studies,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+719,"Germany,Poland,Brazil,Italy,India,The Netherlands,Argentina",Asia,Single group observational,Animal feed at retail,Retail,Not Reported,Not reported,Not reported,,,,,,Swine,
+2008,Norway,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,Swine,
+1206,Poland,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Ruminants, Swine, Poultry,  Not reported","Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,"Poultry, not further specified",
+2826,Spain,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Cattle, Sheep, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Swine,Poultry, not further specified,Not reported",,,,,,"Broiler chickens,Laying hens",
+5023,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,Turkeys,
+9943,United Kingdom,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,Turkeys,
+3001,Sweden,Europe,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Laying hens,
+3232,Sweden,Europe,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Dairy cattle,
+9684,Hungary,Europe,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,"Chickens, not further specified",
+3960,Norway,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Fish, Not reported","Fish / shellfish,Not reported",,,,,,Swine,
+2189,United Kingdom,Europe,Analytical observational,"Field used to grow animal feeds,Feed manufacturing plant,On-farm (including farmed fish sites)",Multiple,Not Reported,"Cattle, Swine, Not reported","Not reported, cattle, swine",,,,,,Swine,
+9604,Serbia,Europe,Laboratory study (experimental),"Feed manufacturing plant,Not specified",Multiple,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified, Not reported",,,,,,Broiler chickens,
+5299,Sweden,Europe,Single group observational,"Feed manufacturing plant,Feed transportation (e.g. feed trucks)",Multiple,Not Reported,"Ruminants, Swine, Not reported","Not reported, Ruminants, Swine",,,,,,Laying hens,
+16446,Belgium,Europe,Analytical observational,Not specified,Not Specified,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Broiler chickens,Poultry, not further specified,Not reported",,,,,,Laying hens,
+18279,Belgium,Europe,Analytical observational,Not specified,Not Specified,Not Reported,"Swine, Poultry, Not reported","Swine,Broiler chickens,Laying hens,Not reported",,,,,,Laying hens,
+3075,Great Britain,Europe,Analytical observational,Not specified,Not Specified,Not Reported,"Cattle, Sheep, Ruminants, Swine, Poultry, Not reported","Cattle, not further specified,Sheep,Ruminants, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,Laying hens,
+9292,Poland,Europe,Analytical observational,Not specified,Not Specified,Not Reported,"Cattle, Swine, Poultry, Fish, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Fish  / shellfish,Not reported",,,,,,"Chickens, not further specified",
+2295,Sweden,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Laying hens,
+4388,Italy,Europe,Molecular studies,Not specified,Not Specified,Not Reported,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,Broiler chickens,
+9257,Serbia,Europe,Molecular studies,Not specified,Not Specified,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Poultry, not further specified,Not reported",,,,,,Turkeys,
+5179,"Canada,Great Britain,Israel",Europe,Molecular studies,Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Fish  / shellfish,
+516,Belgium,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+9240,Greece,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Sheep,
+9108,Serbia,Europe,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+3872,"Sweden,Norway",Europe,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+506,Germany,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+503,Portugal,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+4191,Spain,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+3749,Sweden,Europe,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+5126,"Belgium,The Netherlands",Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+1169,Italy,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+3185,Norway,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+4307,Sweden,Europe,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+1887,Germany,Europe,Laboratory study (experimental),Field used to grow animal feeds,Field Used to Grow Animal Feeds,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+4180,Great Britain,Europe,Single group observational,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+10108,Poland,Europe,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+2139,Sweden,Europe,Diagnostic test evaluation,Animal feed at retail,Retail,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+4369,Finland,Europe,Molecular studies,"Feed manufacturing plant,Not specified",Multiple,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+9406,Lithuania,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+9133,Poland,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9139,Poland,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9151,Poland,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9842,Slovenia,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+9087,Spain,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+9210,Spain,Europe,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+307,Germany,Europe,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+2489,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+10058,Sweden,Europe,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+260,Denmark,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+140,Italy,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+10420,Poland,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+17194,Poland,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+5393,Sweden,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+6223,Sweden,Europe,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+1527,Belgium,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Broiler chickens,Laying hens",
+4475,Belgium,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Rabbits raised for meat,
+3312,Denmark,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+4037,Germany,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+4423,Great Britain,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+5134,Great Britain,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+5048,Greece,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+2430,Poland,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+3788,Poland,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+4568,Poland,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+9251,Poland,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+10295,Poland,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+3848,Spain,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+4429,Spain,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Broiler chickens,Laying hens",
+6531,Sweden,Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9699,Serbia,Europe,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+10522,Serbia,Europe,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+719,"Germany,Poland,Brazil,Italy,India,The Netherlands,Argentina",Europe,Single group observational,Animal feed at retail,Retail,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+5360,"Poland,Italy,Denmark,Spain,Serbia,Ireland,United Kingdom,Greece",Europe,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+172,"Not reported,Germany,Great Britain,Denmark",Europe,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+1537,Costa Rica,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Swine, Poultry, Not reported","Swine,Poultry, not further specified,Not reported",,,,,,Buffalo / bison,
+7948,USA,North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Cattle, Not reported","Dairy cattle,Beef cattle,Not reported",,,,,,Swine,
+5394,USA,North America,Single group observational,Not specified,Not Specified,Not Reported,"Cattle, Sheep, Goat, Swine, Poultry, Not reported","Dairy cattle,Beef cattle,Sheep,Goats,Swine,Poultry, not further specified,Not reported",,,,,,Swine,
+5179,"Canada,Great Britain,Israel",North America,Molecular studies,Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Broiler chickens,
+878,Costa Rica,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Not reported,
+2242,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+3052,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Fish  / shellfish,
+4141,USA,North America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+1324,USA,North America,Laboratory study (experimental),Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+1574,USA,North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+3993,USA,North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+19919,USA,North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+1618,"USA,Canada",North America,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+5480,USA,North America,Analytical observational,Field used to grow animal feeds,Field Used to Grow Animal Feeds,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+1127,USA,North America,Diagnostic test evaluation,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Swine,
+9720,Canada,North America,Laboratory study (experimental),On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Swine,
+4549,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+4885,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+4905,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+5033,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Sheep,
+5122,Canada,North America,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+8706,Canada,North America,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+4515,Mexico,North America,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+939,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Not reported,
+3256,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+5658,USA,North America,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Broiler chickens,Laying hens,Chickens, not further specified",
+3570,USA,North America,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Fish  / shellfish,
+19919,USA,North America,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+2700,"Not reported,USA,Ecuador,Australia,Uruguay,Taiwan,Thailand,Chile,Peru,American Samoa",North America,Molecular studies,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,Swine,
+2700,"Not reported,USA,Ecuador,Australia,Uruguay,Taiwan,Thailand,Chile,Peru,American Samoa",Oceania,Molecular studies,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,Domestic ducks,
+5391,Brazil,South America,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Domestic ducks,
+9140,Brazil,South America,Analytical observational,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+12129,Brazil,South America,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+9419,Ecuador,South America,Clinical / field trial with natural disease exposure,On-farm (including farmed fish sites),On-farm,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+9558,Brazil,South America,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+4303,Brazil,South America,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Broiler chickens,Laying hens",
+4418,Brazil,South America,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+5147,Brazil,South America,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+2700,"Not reported,USA,Ecuador,Australia,Uruguay,Taiwan,Thailand,Chile,Peru,American Samoa",South America,Molecular studies,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,"Broiler chickens,Laying hens,Turkeys",
+719,"Germany,Poland,Brazil,Italy,India,The Netherlands,Argentina",South America,Single group observational,Animal feed at retail,Retail,Not Reported,Not reported,Not reported,,,,,,"Ruminants, not further specified",
+9307,Not reported,Not Reported,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,"Chickens, not further specified",
+1269,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,"Cattle, Not reported","Cattle, not further specified,Not reported",,,,,,Dairy cattle,
+2809,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,"Swine, Not reported","Swine,Not reported",,,,,,Not reported,
+4654,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,"Cattle, Swine, Poultry, Not reported","Cattle, not further specified,Swine,Chicken, not further specified,Turkeys,Other farmed poultry,Not reported",,,,,,Dairy cattle,
+5375,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,"Poultry, Fish, Not reported","Poultry, not further specified,Fish  / shellfish,Not reported",,,,,,Turkeys,
+9770,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,"Poultry, Not reported","Poultry, not further specified,Not reported",,,,,,Beef cattle,
+2700,"Not reported,USA,Ecuador,Australia,Uruguay,Taiwan,Thailand,Chile,Peru,American Samoa",Not Reported,Molecular studies,Feed transportation (e.g. feed trucks),Feed Transportation,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified,Goats,Swine,Broiler chickens,Laying hens",
+172,"Not reported,Germany,Great Britain,Denmark",Not Reported,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+9132,Not reported,Not Reported,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+10237,Not reported,Not Reported,Analytical observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+4692,Not reported,Not Reported,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+5010,Not reported,Not Reported,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+5152,Not reported,Not Reported,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Swine,
+5244,Not reported,Not Reported,Diagnostic test evaluation,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+3090,Not reported,Not Reported,Molecular studies,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+16367,Not reported,Not Reported,Single group observational,Feed manufacturing plant,Feed Manufacturing Plant,Not Reported,Not reported,Not reported,,,,,,"Chickens, not further specified",
+10226,Not reported,Not Reported,Analytical observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Broiler chickens,
+953,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+970,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+3585,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+4156,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+4525,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+4722,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+5189,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+5190,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+5191,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+5240,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+5242,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+5259,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+5748,Not reported,Not Reported,Diagnostic test evaluation,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+262,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+1075,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+1518,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+1942,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Dairy cattle,Beef cattle",
+2161,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+2243,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Dairy cattle,
+2352,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+3147,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+3148,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Fish  / shellfish,
+3437,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+3550,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Cattle, not further specified",
+6343,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+6807,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+7450,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Poultry, not further specified",
+8559,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Dairy cattle,Beef cattle",
+9236,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Laying hens,
+21709,Not reported,Not Reported,Laboratory study (experimental),Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Turkeys,
+2007,Not reported,Not Reported,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
+12501,Not reported,Not Reported,Molecular studies,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Beef cattle,
+3422,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,"Dairy cattle,Beef cattle",
+9832,Not reported,Not Reported,Single group observational,Not specified,Not Specified,Not Reported,Not reported,Not reported,,,,,,Swine,
