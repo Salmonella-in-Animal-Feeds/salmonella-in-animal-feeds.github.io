@@ -4,14 +4,16 @@ const table = d3.select('#table').append('table');
 const thead = table.append('thead');
 const tbody = table.append('tbody');
 const colors = {
-    "Analytical observational":"#72788D",
-    "Diagnostic test evaluation":"#4DA167",
-    "Single group observational":"#4ECDC4",
-    "Molecular studies":"#477998",
-    "Laboratory study (experimental)":"#E26D5A",
-    "Clinical / field trial with natural disease exposure":" #04724D",
-    "Challenge trial in natural setting":"#C08497",
+    "Analytical observational":"#000075",
+    "Diagnostic test evaluation":"#4363d8",
+    "Single group observational":"#aaffc3",
+    "Molecular studies":"#ffe119",
+    "Laboratory study (experimental)":"#e6194b",
+    "Clinical / field trial with natural disease exposure":" #f58231",
+    "Challenge trial in natural setting":"#42d4f4",
 }
+
+
 
 var Tooltip = d3.select("body")
 .append("div")
@@ -23,6 +25,8 @@ var Tooltip = d3.select("body")
 .style("border-width", "1px")
 .style("border-radius", "5px")
 .style("padding", "5px")
+
+
 
 var mouseover = function(event,d) {
     console.log(d)
@@ -131,18 +135,24 @@ d3.csv('data1.csv').then((data) => {
         .attr('cy', (d)=>d.y)
         .attr('r', (d)=>d.r)
         .attr('fill', (d)=>colors[d.data.name])
+
+     
+        
 })
+
+
 // select the svg area
 var legend = d3.select("#legend")
 
+
 //Handmade legend
-legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#72788D")
-legend.append("circle").attr("cx",200).attr("cy",12).attr("r", 10).style("fill", "#4DA167")
-legend.append("circle").attr("cx",386).attr("cy",12).attr("r", 10).style("fill", "#4ECDC4")
-legend.append("circle").attr("cx",578).attr("cy",12).attr("r", 10).style("fill", "#477998")
-legend.append("circle").attr("cx",716).attr("cy",12).attr("r", 10).style("fill", "#E26D5A")
-legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#04724D")
-legend.append("circle").attr("cx",348).attr("cy",45).attr("r", 10).style("fill", "#C08497")
+legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#000075")
+legend.append("circle").attr("cx",200).attr("cy",12).attr("r", 10).style("fill", "#4363d8")
+legend.append("circle").attr("cx",386).attr("cy",12).attr("r", 10).style("fill", "#aaffc3")
+legend.append("circle").attr("cx",578).attr("cy",12).attr("r", 10).style("fill", "#ffe119")
+legend.append("circle").attr("cx",716).attr("cy",12).attr("r", 10).style("fill", "#e6194b")
+legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#f58231")
+legend.append("circle").attr("cx",348).attr("cy",45).attr("r", 10).style("fill", "#42d4f4")
 
 legend.append("text").attr("x", 35).attr("y", 12).text("Analytical Observational").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 215).attr("y", 12).text("Diagnostic test evaluation").style("font-size", "15px").attr("alignment-baseline","middle")

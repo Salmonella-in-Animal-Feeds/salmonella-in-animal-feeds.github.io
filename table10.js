@@ -2,17 +2,17 @@ const table = d3.select('#table').append('table');
 const thead = table.append('thead');
 const tbody = table.append('tbody');
 const colors = {
-    "S. Tennessee":"#4ECDC4",
-    "S. Infantis":"#FFC15E",
-    "S. Senftenberg":"#231123",
-    "S. spp":"#477998",
-    "S. Mbandaka":"#8B1E3F",
-    "S. Montevideo":"#816E94",
-    "S. Ohio":"#E26D5A",
-    "S. Livingstone":"#874F6F",
-    "S. Orion":"#C08497",
-    "S. Oranienburg":"#CCF5AC",
-    "S. Schwarzengrund":"#C1E0F7"
+    "S. Tennessee":"#dcbeff",
+    "S. Infantis":"#0827F5",
+    "S. Senftenberg":"#469990",
+    "S. spp":"#000075",
+    "S. Mbandaka":"#e6194b",
+    "S. Montevideo":"#a9a9a9",
+    "S. Ohio":"#000000",
+    "S. Livingstone":"#a40000",
+    "S. Orion":"#FFBB00",
+    "S. Oranienburg":"#aaffc3",
+    "S. Schwarzengrund":"#f15a22"
 }
 
 var Tooltip = d3.select("body")
@@ -79,7 +79,7 @@ d3.csv('transport_serotypes.csv').then((data) => {
 
     const legend = thead
         .append('tr')
-    legend.append('th').text('Animal Species').attr('rowspan', 2).attr('style','background-color:#06357C')
+    legend.append('th').text('Animal Species for Which the Feed was Intended').attr('rowspan', 2).attr('style','background-color:#06357C')
     legend.append('th').text('Region').attr('colspan', continentGroup.size).attr('style','background-color:#06357C')
 
     thead
@@ -138,17 +138,17 @@ d3.csv('transport_serotypes.csv').then((data) => {
 var legend = d3.select("#legend")
 
 //Handmade legend
-legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#FFC15E")
-legend.append("circle").attr("cx",113).attr("cy",12).attr("r", 10).style("fill", "#874F6F")
-legend.append("circle").attr("cx",233).attr("cy",12).attr("r", 10).style("fill", "#8B1E3F")
-legend.append("circle").attr("cx",348).attr("cy",12).attr("r", 10).style("fill", "#816E94")
-legend.append("circle").attr("cx",470).attr("cy",12).attr("r", 10).style("fill", "#E26D5A")
-legend.append("circle").attr("cx",551).attr("cy",12).attr("r", 10).style("fill", "#CCF5AC")
-legend.append("circle").attr("cx",676).attr("cy",12).attr("r", 10).style("fill", "#C08497")
-legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#C1E0F7")
-legend.append("circle").attr("cx",170).attr("cy",45).attr("r", 10).style("fill", "#231123")
-legend.append("circle").attr("cx",290).attr("cy",45).attr("r", 10).style("fill", "#477998")
-legend.append("circle").attr("cx",358).attr("cy",45).attr("r", 10).style("fill", "#4ECDC4")
+legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#0827F5")
+legend.append("circle").attr("cx",113).attr("cy",12).attr("r", 10).style("fill", "#a40000")
+legend.append("circle").attr("cx",233).attr("cy",12).attr("r", 10).style("fill", "#e6194b")
+legend.append("circle").attr("cx",348).attr("cy",12).attr("r", 10).style("fill", "#a9a9a9")
+legend.append("circle").attr("cx",470).attr("cy",12).attr("r", 10).style("fill", "#000000")
+legend.append("circle").attr("cx",551).attr("cy",12).attr("r", 10).style("fill", "#aaffc3")
+legend.append("circle").attr("cx",676).attr("cy",12).attr("r", 10).style("fill", "#FFBB00")
+legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#f15a22")
+legend.append("circle").attr("cx",170).attr("cy",45).attr("r", 10).style("fill", "#469990")
+legend.append("circle").attr("cx",290).attr("cy",45).attr("r", 10).style("fill", "#000075")
+legend.append("circle").attr("cx",358).attr("cy",45).attr("r", 10).style("fill", "#dcbeff")
 
 
 

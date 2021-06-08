@@ -12,6 +12,8 @@ body, html {
   
   }
   
+  
+  
   .btn-primary {
     margin-top: 20px;
       line-height: 60px;
@@ -119,6 +121,7 @@ body, html {
   
   th, td {
     border-left: 5px;
+    
   
   }
   
@@ -137,6 +140,8 @@ body, html {
     color:black;
     font-size: 20px;
     border-radius: 0px;
+    
+    
   
   }
   
@@ -153,6 +158,10 @@ body, html {
     font-weight:bolder;
     color:white;
     border-radius: 15px;
+  
+   
+    
+  
   }
   
   thead tr:nth-child(2) th {
@@ -160,12 +169,16 @@ body, html {
     font-weight:normal;
     border-right: 2px solid rgb(174,195,211);
     border-bottom: 2px solid rgb(174,195,211);
+    position: sticky;
+    top:0;
   }
   
   tbody tr:nth-child(1) th {
     font-size: 20px;
     font-weight:normal;
     color:black;
+    
+  
   
   }
   
@@ -214,15 +227,17 @@ body, html {
       font-family: 'Times New Roman';
     }
     p { padding-left: 10px; }
-   
   
     #footer {
-        position: relative;
-      margin-top: -80px;
-      /* negative value of footer height */
-      height: 80px;
-      clear: both;
-      background-color: rgb(55, 93, 149);
-     }
+      position: relative;
+    margin-top: -80px;
+    /* negative value of footer height */
+    height: 80px;
+    clear: both;
+    background-color: rgb(55, 93, 149);
+   }
+   
+  
+    
   
    

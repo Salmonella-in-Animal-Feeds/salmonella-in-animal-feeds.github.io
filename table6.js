@@ -2,13 +2,13 @@ const table = d3.select('#table').append('table');
 const thead = table.append('thead');
 const tbody = table.append('tbody');
 const colors = {
-    "Prevalence":"#72788D",
-    "Serotype(s) Present":"#4DA167",
-    "Molecular Characteristics":"#4ECDC4",
-    "Concentration":"#477998",
-    "Survival Time":"#E26D5A",
-    "Antimicrobial Resistance":"#04724D",
-    "OR/RR/HR":"#C08497",
+    "Prevalence":"#000075",
+    "Serovar(s) Present":"#4363d8",
+    "Molecular Characteristics":"#aaffc3",
+    "Concentration":"#ffe119",
+    "Survival Time":"#e6194b",
+    "Antimicrobial Resistance":"#f58231",
+    "OR/RR/HR":"#42d4f4",
 }
 
 var Tooltip = d3.select("body")
@@ -134,13 +134,13 @@ d3.csv('data8.csv').then((data) => {
 var legend = d3.select("#legend")
 
 //Handmade legend
-legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#72788D")
-legend.append("circle").attr("cx",118).attr("cy",12).attr("r", 10).style("fill", "#4DA167")
-legend.append("circle").attr("cx",262).attr("cy",12).attr("r", 10).style("fill", "#4ECDC4")
-legend.append("circle").attr("cx",450).attr("cy",12).attr("r", 10).style("fill", "#477998")
-legend.append("circle").attr("cx",570).attr("cy",12).attr("r", 10).style("fill", "#E26D5A")
-legend.append("circle").attr("cx",690).attr("cy",12).attr("r", 10).style("fill", "#04724D")
-legend.append("circle").attr("cx",870).attr("cy",12).attr("r", 10).style("fill", "#C08497")
+legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#000075")
+legend.append("circle").attr("cx",118).attr("cy",12).attr("r", 10).style("fill", "#4363d8")
+legend.append("circle").attr("cx",262).attr("cy",12).attr("r", 10).style("fill", "#aaffc3")
+legend.append("circle").attr("cx",450).attr("cy",12).attr("r", 10).style("fill", "#ffe119")
+legend.append("circle").attr("cx",570).attr("cy",12).attr("r", 10).style("fill", "#e6194b")
+legend.append("circle").attr("cx",690).attr("cy",12).attr("r", 10).style("fill", "#f58231")
+legend.append("circle").attr("cx",870).attr("cy",12).attr("r", 10).style("fill", "#42d4f4")
 
 
 legend.append("text").attr("x", 35).attr("y", 12).text("Prevalence").style("font-size", "15px").attr("alignment-baseline","middle")
@@ -151,4 +151,4 @@ legend.append("text").attr("x", 585).attr("y", 12).text("Survival Time").style("
 legend.append("text").attr("x", 705).attr("y", 12).text("Antimicrobial resistance").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 885).attr("y", 12).text("OR/RR/HR").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 12).attr("y", 50).text("A single study may report more than one region or sector, so study count may exceed the number of studies characterized. Furthermore, studies that did not report").style("font-size", "15px").attr("alignment-baseline","middle")
-legend.append("text").attr("x", 12).attr("y", 70).text("prevalence, serotype(s) present, molecular characteristics, survival time, antimicrobial resistance, or the OR/RR/HR were excluded from this characterization.").style("font-size", "15px").attr("alignment-baseline","middle")
+legend.append("text").attr("x", 12).attr("y", 70).text("prevalence, serovar(s) present, molecular characteristics, survival time, antimicrobial resistance, or the OR/RR/HR were excluded from this characterization.").style("font-size", "15px").attr("alignment-baseline","middle")

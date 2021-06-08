@@ -2,13 +2,13 @@ const table = d3.select('#table').append('table');
 const thead = table.append('thead');
 const tbody = table.append('tbody');
 const colors = {
-    "Analytical observational":"#72788D",
-    "Diagnostic test evaluation":"#4DA167",
-    "Single group observational":"#4ECDC4",
-    "Molecular studies":"#477998",
-    "Laboratory study (experimental)":"#E26D5A",
-    "Clinical / field trial with natural disease exposure":" #04724D",
-    "Challenge trial in natural setting":"#C08497",
+    "Analytical observational":"#000075",
+    "Diagnostic test evaluation":"#4363d8",
+    "Single group observational":"#aaffc3",
+    "Molecular studies":"#ffe119",
+    "Laboratory study (experimental)":"#e6194b",
+    "Clinical / field trial with natural disease exposure":" #f58231",
+    "Challenge trial in natural setting":"#42d4f4",
 }
 
 var Tooltip = d3.select("body")
@@ -134,19 +134,19 @@ d3.csv('data9.csv').then((data) => {
 var legend = d3.select("#legend")
 
 //Handmade legend
-legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#72788D")
-legend.append("circle").attr("cx",200).attr("cy",12).attr("r", 10).style("fill", "#4DA167")
-legend.append("circle").attr("cx",388).attr("cy",12).attr("r", 10).style("fill", "#4ECDC4")
-legend.append("circle").attr("cx",580).attr("cy",12).attr("r", 10).style("fill", "#477998")
-legend.append("circle").attr("cx",718).attr("cy",12).attr("r", 10).style("fill", "#E26D5A")
-legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#04724D")
-legend.append("circle").attr("cx",348).attr("cy",45).attr("r", 10).style("fill", "#C08497")
+legend.append("circle").attr("cx",20).attr("cy",12).attr("r", 10).style("fill", "#000075")
+legend.append("circle").attr("cx",200).attr("cy",12).attr("r", 10).style("fill", "#4363d8")
+legend.append("circle").attr("cx",386).attr("cy",12).attr("r", 10).style("fill", "#aaffc3")
+legend.append("circle").attr("cx",578).attr("cy",12).attr("r", 10).style("fill", "#ffe119")
+legend.append("circle").attr("cx",716).attr("cy",12).attr("r", 10).style("fill", "#e6194b")
+legend.append("circle").attr("cx",20).attr("cy",45).attr("r", 10).style("fill", "#f58231")
+legend.append("circle").attr("cx",348).attr("cy",45).attr("r", 10).style("fill", "#42d4f4")
 
 legend.append("text").attr("x", 35).attr("y", 12).text("Analytical Observational").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 215).attr("y", 12).text("Diagnostic test evaluation").style("font-size", "15px").attr("alignment-baseline","middle")
-legend.append("text").attr("x", 403).attr("y", 12).text("Single group observational").style("font-size", "15px").attr("alignment-baseline","middle")
-legend.append("text").attr("x", 595).attr("y", 12).text("Molecular studies").style("font-size", "15px").attr("alignment-baseline","middle")
-legend.append("text").attr("x", 733).attr("y", 12).text("Laboratory study (experimental)").style("font-size", "15px").attr("alignment-baseline","middle")
+legend.append("text").attr("x", 401).attr("y", 12).text("Single group observational").style("font-size", "15px").attr("alignment-baseline","middle")
+legend.append("text").attr("x", 593).attr("y", 12).text("Molecular studies").style("font-size", "15px").attr("alignment-baseline","middle")
+legend.append("text").attr("x", 731).attr("y", 12).text("Laboratory study (experimental)").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 35).attr("y", 45).text("Clinical / field trial with natural disease exposure").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 363).attr("y", 45).text("Challenge trial in natural setting").style("font-size", "15px").attr("alignment-baseline","middle")
 legend.append("text").attr("x", 12).attr("y", 80).text("A single study may report more than one region or serovar, so study count may exceed the number of studies characterized. In addition, the serovars").style("font-size", "15px").attr("alignment-baseline","middle")
